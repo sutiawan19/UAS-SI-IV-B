@@ -125,7 +125,7 @@ Apapun tema yang Anda pilih, aplikasi Anda **WAJIB** memiliki komponen dan fungs
 * **Nama Kelompok & NIM** anggota.
 * **Tema & Deskripsi Aplikasi**: Jelaskan latar belakang aplikasi yang dibuat serta fitur-fiturnya.
 * **Struktur Data**: Jelaskan struktur objek/properti data yang digunakan.
-* **Link Demo Live**: URL tautan aktif dari hasil *deploy* di Vercel/Netlify.
+* **Link Demo Live**: URL tautan aktif dari hasil *deploy* di [Vercel]([https://](https://vercel.com)) / [Netlify]([https://](https://app.netlify.com/))
 
 
 3. Lakukan *Push* hasil akhir proyek ke repositori kelas:
@@ -133,4 +133,4 @@ Apapun tema yang Anda pilih, aplikasi Anda **WAJIB** memiliki komponen dan fungs
 
 ---
 
-*Selamat Mengerjakan, Jaga Sportivitas, dan Semoga Sukses!*
+*Selamat Mengerjakan, Happy Coding!*
